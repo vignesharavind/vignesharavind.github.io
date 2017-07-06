@@ -92,9 +92,9 @@ Calibration of probe microphone:
 
 #### Sound measurements at the big contraction
 
-* The hose from the fan was connected to the big contraction only.
-* Microphone probe were connected to the pressure tap at the exit of the big contraction.
-* Sound recorded at the pressure tap of the exit of the big contraction when both of the fan were on as well as when the flow was obstructed while the fans were running to quantify the noise generated from the fan motors and environment
+•	The hose from the fan was connected to the big contraction only.
+•	Microphone probe were connected to the pressure tap at the exit of the big contraction.
+•	Sound recorded at the pressure tap of the exit of the big contraction when both of the fan were on as well as when the flow was obstructed while the fans were running to quantify the noise generated from the fan motors and environment
 
 ![Pic_3.jpg]({{site.baseurl}}/img/Pic_3.jpg)
 <p align="center">Sound recorded at the exit of big contraction</p>
