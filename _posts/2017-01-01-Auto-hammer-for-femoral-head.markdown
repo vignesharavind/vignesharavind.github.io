@@ -24,9 +24,9 @@ visualworkflow: true
 
 <hr>
 
-#### {{ Vignesh Aravind.author }}
+#### {{ Vignesh Aravind}}
 
-#### {{ October, 2016.date | date: "%I %M %p ,%a, %b %d %Y"}}
+#### {{ October, 2016 | date: "%I %M %p ,%a, %b %d %Y"}}
 
 “The unscientific procedure employed during assembly of femoral head over the stem”.  This results in application of less or more force than 4.5 ± 0.5 KN. It leads to loosening of femoral head or head/stem interface damage.
 
