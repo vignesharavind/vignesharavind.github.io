@@ -66,7 +66,7 @@ Calibration of probe microphone:
 -The below figure shows that the Vertical and horizontal velocity profiles at the entrance of the airway model is predominantly flat
 
 ![Graph3.JPG]({{site.baseurl}}/img/Graph3.JPG)
-<p align="center">: Velocity profile at the exit of small contraction</p>
+<p align="center">Velocity profile at the exit of small contraction</p>
 
 #### Miniature model of a pig airway:
 
