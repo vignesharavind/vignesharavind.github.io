@@ -1,10 +1,21 @@
 ---
-layout:   post
-title:    Automated Pallet Unlocking System in Tow Vehicles
-author:   Vicky
-tags: 		Project Industry
+slideinit: >-
+  <section markdown="1"
+  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  markdown="1">
+vertical: </section><section markdown="1">
+horizontal: >-
+  </section></section><section markdown="1"
+  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  markdown="1">
+layout: post
+title: Automated Pallet Unlocking System in Tow Vehicles
+author: Vicky
+tags: Project Industry
 subtitle: Some Short Description of Post
 category: project
+published: true
+visualworkflow: true
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -36,8 +47,11 @@ The 'Scotch Yoke' mechanism is chosen over various other mechanisms owing to its
 Final overview of the design is obtained by assembling the individual components together. The initial and final position of the key during various degrees of rotation of the crank is also shown.
 
 
-![Robotic arm with link](/img/app/robotic-arm-link.png)
-Robotic arm with links
+![Design_APU](/img/Pallet Unlocking/Design_5.jpg)
+<p align="center">Initial, Final, Front and Side Views</p>
+
+![Design_Isometric](/img/Pallet Unlocking/Pic_4.jpg)
+<p align="center">Isometric view of the Setup</p>
 
 ## Fabrication of Parts
 
@@ -63,17 +77,30 @@ The various parts fabricated are listed below:
 
 The components are separately fabricated by above mentioned operations. A Pillow block is used to support the shaft and take up bending and tensile stresses.
 
-![Electrical Circuit](/img/new/electrical-circuit.png)Frame Used for Motor Mounting
+![Frame](/img/Pallet Unlocking/Pic_5.jpg)
+<p align="center">Frame Used for Motor Mounting</p>
 
 The frame is made out of rectangular square tubes which are sent out as scrap. There are various slots provided in the frame to accommodate battery, motor stand, guide rods etc.
 
-![Electrical Circuit](/img/new/electrical-circuit.png)Shaft with Pillow Block
+![Frame](/img/Pallet Unlocking/Pic_6.jpg)
+<p align="center">Shaft with Pillow Block</p>
 
-![Electrical Circuit](/img/new/electrical-circuit.png)
-Crank
+![Frame](/img/Pallet Unlocking/Pic_2.jpg)
+<p align="center">Crank</p>
 
-![Electrical Circuit](/img/new/electrical-circuit.png)Yoke with chain link
+![Frame](/img/Pallet Unlocking/Pic_7.jpg)
+<p align="center">Yoke with chain link</p>
 
-![Electrical Circuit](/img/new/electrical-circuit.png)Motor mounting front view![Electrical Circuit](/img/new/electrical-circuit.png)Complete assembly of the setup
+![Frame](/img/Pallet Unlocking/Pic_9.jpg)
+<p align="center">Motor mounting front view</p>
 
-Key Deformation Analysis:![Electrical Circuit](/img/new/electrical-circuit.png)The above figure shows the deformation in various parts of the key due to the application of a tangential load.This analysis done using the ANSYS software shows the stresses induced in various portions of the key due to tangential loading.
+![Frame](/img/Pallet Unlocking/Pic_8.jpg)
+<p align="center">Complete assembly of the setup</p>
+
+Key Deformation Analysis:
+![Ansys](/img/Pallet Unlocking/Pic_10.jpg)
+
+The above figure shows the deformation in various parts of the key due to the application of a tangential load.
+
+The below analysis was done using the ANSYS software that shows the stresses induced in various portions of the key due to tangential loading.
+![Ansys](/img/Pallet Unlocking/Pic_11.jpg)
