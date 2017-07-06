@@ -9,7 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 visualworkflow: true
-published: false
+published: true
 title: Exoskeleton for ACL rehabilitation
 ---
 
