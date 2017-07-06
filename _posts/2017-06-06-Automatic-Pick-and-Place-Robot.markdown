@@ -49,6 +49,7 @@ Exploded view of robotic arm
 
 The material chosen is cut into various links as required. After cutting the links and base to suitable dimensions they are subjected to required machining processes. Holes are drilled in base to accommodate DC Motor and a flange like entity is made to connect arm’s base with the DC Motor. The links are then attached to the base using L-clamps, screws and bolts with the aid of washer.Servomotors of suitable dimensions are also attached to the respective links. 
 ![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
+
 ![Fabrication_1](/img/Pick-Place/Pic_7.jpg)
 
 Finally, the electronic connections are given as shown.
@@ -56,8 +57,8 @@ Finally, the electronic connections are given as shown.
 Electrical Circuit
 
 The designed gripper mechanism was stimulated using Adams software
-![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
+![Fabrication_1](/img/Pick-Place/Pic_8.jpg)
 
-![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
+![Fabrication_1](/img/Pick-Place/Pic_9.jpg)
 
 The gripper used in the robotic arm is the bell crank lever mechanism which is very different from conventional grippers that use gears to achieve the gripping action.
