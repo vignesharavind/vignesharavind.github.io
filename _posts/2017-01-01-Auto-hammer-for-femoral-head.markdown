@@ -24,7 +24,7 @@ visualworkflow: true
 
 <hr>
 
-#### {{ Vignesh Aravind}}
+#### {{ Vignesh Aravind.author}}
 
 #### {{ 10, 2016 | date: "%I %M %p ,%a, %b %d %Y"}}
 
