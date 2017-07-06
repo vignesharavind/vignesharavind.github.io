@@ -1,10 +1,21 @@
 ---
-layout:   post
-title:    Automatic Pick and Place Robot for Palletizing
-author:   Vicky
-tags: 		design Solidworks
+slideinit: >-
+  <section markdown="1"
+  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  markdown="1">
+vertical: </section><section markdown="1">
+horizontal: >-
+  </section></section><section markdown="1"
+  data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
+  markdown="1">
+layout: post
+title: Automatic Pick and Place Robot for Palletizing
+author: Vicky
+tags: design Solidworks
 subtitle: Some Short Description of Post
 category: project
+published: true
+visualworkflow: true
 ---
 <!-- Start Writing Below in Markdown -->
 
@@ -25,7 +36,7 @@ category: project
 The proposed prototype is controlled using AVR’s advanced ATmega328p microcontroller which is programmed using Arduino software in C program language. The end effector used in this prototype is a mechanical gripper which is actuated by servo motor and the bell crank lever mechanism is used for opening and closing of the claws. This project forms a good platform for robotics and helps budding engineers understand the real-world problems and domestic automation needs. The problem with the available arms are that they cost quite a deal of money and hence not affordable to plebeians. Most of the robotic arms available are bulky and robust thus, can’t be used to do household chores. The objective of this project is to design a compact and cheap robotic arm to serve this purpose.
 
 ![Robotic arm with link](/img/app/robotic-arm-link.png)
-Robotic arm with links
+<p align="center">Robotic arm with links</p>
 
 ![Bell crank mechanism](/img/app/bell-crank-mechanism.png)
 Gripper with 'bell crank mechanism'
@@ -38,11 +49,22 @@ Electrical Circuit
 
 ## Fabrication
 
-The material chosen is cut into various links as required. After cutting the links and base to suitable dimensions they are subjected to required machining processes. Holes are drilled in base to accommodate DC Motor and a flange like entity is made to connect arm’s base with the DC Motor. The links are then attached to the base using L-clamps, screws and bolts with the aid of washer.Servomotors of suitable dimensions are also attached to the respective links. Finally, the electronic connections are given as shown.
+The material chosen is cut into various links as required. After cutting the links and base to suitable dimensions they are subjected to required machining processes. Holes are drilled in base to accommodate DC Motor and a flange like entity is made to connect arm’s base with the DC Motor. The links are then attached to the base using L-clamps, screws and bolts with the aid of washer.
+Servomotors of suitable dimensions are also attached to the respective links. Finally, the electronic connections are given as shown.
 
 ![Electrical Circuit](/img/app/electrical-circuit.png)
 Electrical Circuit
 
-The designed gripper mechanism was stimulated using Adams software![Electrical Circuit](/img/app/electrical-circuit.png)
+
+
+The designed gripper mechanism was stimulated using Adams software
+
+
+
+![Electrical Circuit](/img/app/electrical-circuit.png)
 Electrical Circuit
-The gripper used in the robotic arm is the bell crank lever mechanism which is very different from conventional grippers that use gears to achieve the gripping action.
+
+
+
+
+The gripper used in the robotic arm is the bell crank lever mechanism which is very different from conventional grippers that use gears to achieve the gripping action.
