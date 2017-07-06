@@ -9,7 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 visualworkflow: true
-published: false
+published: true
 title: >-
   Measurement of airflow, pressure, and sound inside the model of miniature
   airway tree
