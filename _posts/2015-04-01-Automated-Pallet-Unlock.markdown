@@ -48,7 +48,7 @@ Final overview of the design is obtained by assembling the individual components
 
 
 ![Design_5.JPG]({{site.baseurl}}/img/Design_5.JPG)
-<p align="center">Initial, Final, Front and Side Views</p>
+<p align="center">Initial&Final Posistions, Front&Side Views</p>
 
 ![Design_Isometric](/img/Pallet Unlocking/Pic_4.jpg)
 <p align="center">Isometric view of the Setup</p>
