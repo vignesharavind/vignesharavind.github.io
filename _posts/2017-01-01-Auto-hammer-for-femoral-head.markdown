@@ -20,14 +20,15 @@ visualworkflow: true
 <!-- Start Writing Below in Markdown -->
 
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-## {{Auto-Hammer for Femoral Head Assembly.title }}
+## {{ page.title }}
 
 <hr>
 
-#### {{ Vignesh Aravind.author}}
+#### {{ page.author }}
 
-#### {{ 10, 2016 | date: "%I %M %p ,%a, %b %d %Y"}}
+#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
 
+## Overview
 “The unscientific procedure employed during assembly of femoral head over the stem”.  This results in application of less or more force than 4.5 ± 0.5 KN. It leads to loosening of femoral head or head/stem interface damage.
 
 ### Proposed solution & Design Objective / Criteria
