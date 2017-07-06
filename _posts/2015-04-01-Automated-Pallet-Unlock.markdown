@@ -47,7 +47,7 @@ The 'Scotch Yoke' mechanism is chosen over various other mechanisms owing to its
 Final overview of the design is obtained by assembling the individual components together. The initial and final position of the key during various degrees of rotation of the crank is also shown.
 
 
-![Design_APU](/img/Pallet Unlocking/Design_5.jpg)
+![Design_5.JPG]({{site.baseurl}}/img/Design_5.JPG)
 <p align="center">Initial, Final, Front and Side Views</p>
 
 ![Design_Isometric](/img/Pallet Unlocking/Pic_4.jpg)
