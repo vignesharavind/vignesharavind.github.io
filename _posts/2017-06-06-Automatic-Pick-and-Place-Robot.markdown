@@ -41,30 +41,23 @@ The proposed prototype is controlled using AVR’s advanced ATmega328p microcont
 ![Bell crank mechanism](/img/app/bell-crank-mechanism.png)
 Gripper with 'bell crank mechanism'
 
-![Robotic arm - exploded view](/img/app/robotic-arm.png)
+![Robotic arm - exploded view](/img/Pick-Place/Pic_3(1).jpg)
 Exploded view of robotic arm
 
-![Electrical Circuit](/img/app/electrical-circuit.png)
-Electrical Circuit
 
 ## Fabrication
 
-The material chosen is cut into various links as required. After cutting the links and base to suitable dimensions they are subjected to required machining processes. Holes are drilled in base to accommodate DC Motor and a flange like entity is made to connect arm’s base with the DC Motor. The links are then attached to the base using L-clamps, screws and bolts with the aid of washer.
-Servomotors of suitable dimensions are also attached to the respective links. Finally, the electronic connections are given as shown.
+The material chosen is cut into various links as required. After cutting the links and base to suitable dimensions they are subjected to required machining processes. Holes are drilled in base to accommodate DC Motor and a flange like entity is made to connect arm’s base with the DC Motor. The links are then attached to the base using L-clamps, screws and bolts with the aid of washer.Servomotors of suitable dimensions are also attached to the respective links. 
+![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
+![Fabrication_1](/img/Pick-Place/Pic_7.jpg)
 
+Finally, the electronic connections are given as shown.
 ![Electrical Circuit](/img/app/electrical-circuit.png)
 Electrical Circuit
-
-
 
 The designed gripper mechanism was stimulated using Adams software
+![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
 
-
-
-![Electrical Circuit](/img/app/electrical-circuit.png)
-Electrical Circuit
-
-
-
+![Fabrication_1](/img/Pick-Place/Pic_6.jpg)
 
 The gripper used in the robotic arm is the bell crank lever mechanism which is very different from conventional grippers that use gears to achieve the gripping action.
