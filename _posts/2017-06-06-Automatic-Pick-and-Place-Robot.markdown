@@ -36,7 +36,7 @@ visualworkflow: true
 The proposed prototype is controlled using AVR’s advanced ATmega328p microcontroller which is programmed using Arduino software in C program language. The end effector used in this prototype is a mechanical gripper which is actuated by servo motor and the bell crank lever mechanism is used for opening and closing of the claws. This project forms a good platform for robotics and helps budding engineers understand the real-world problems and domestic automation needs. The problem with the available arms are that they cost quite a deal of money and hence not affordable to plebeians. Most of the robotic arms available are bulky and robust thus, can’t be used to do household chores. The objective of this project is to design a compact and cheap robotic arm to serve this purpose.
 
 ![Robotic arm with link](/img/app/robotic-arm-link.png)
-<p align="center">Robotic arm with links</p>
+<p align="center"> Robotic arm with links. </p>
 
 ![Bell crank mechanism](/img/app/bell-crank-mechanism.png)
 Gripper with 'bell crank mechanism'
