@@ -20,13 +20,13 @@ visualworkflow: true
 <!-- Start Writing Below in Markdown -->
 
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-## {{ page.title }}
+## {{Auto-Hammer for Femoral Head Assembly.title }}
 
 <hr>
 
-#### {{ page.author }}
+#### {{ Vignesh Aravind.author }}
 
-#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
+#### {{ October, 2016.date | date: "%I %M %p ,%a, %b %d %Y"}}
 
 “The unscientific procedure employed during assembly of femoral head over the stem”.  This results in application of less or more force than 4.5 ± 0.5 KN. It leads to loosening of femoral head or head/stem interface damage.
 
@@ -67,20 +67,13 @@ We will use a helical spring in our design to achieve the impact force of 4.5 ±
 
 ![Auto-Hammer isometric view](/img/Auto-Hammer/Pic_3.jpg)
 
-> Do the math symbols properly here...
->
-> Do the math symbols properly here...
->
-> Do the math symbols properly here...
->
-
-
 ### Torque output at gear shaft
 
 As shown above and in the Auto-Hammer mechanism, in order to achieve the output force of 4.5 ± 0.5 KN at the spring, we need to extend it using a rack and pinion mechanism which is driven by the motor and planetary gear system. To move the rack by 10 cm, we need to provide fixed amount of torque at the gear shaft and in turn at the pinion. Again, we will fix our design space and take the maximum distance (also the moment arm) between the rack and the pinion center as 2 cm.   
 
-> Do the math symbols properly here...
->
+
+
+
 
 Anterior Cruciate Ligament (ACL) is one of the major knee ligaments that joins the upper part of the leg and lower part of the leg together and maintains the knee stability. A significant limiting factor that prevents maximal potential recovery of patients following ACL surgery is pain. The overall objective is to propose a mechanical exoskeleton that allows restricted range of motion during post- operative rehabilitation (ensures the safety of the newly reconstructed ACL graft) and a clinical testing plan to use the proposed device with the pain reducer device to understand the overall effect of the combination on the recovery of the patient.
 
