@@ -20,13 +20,6 @@ visualworkflow: true
 <!-- Start Writing Below in Markdown -->
 
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-## {{ page.title }}
-
-<hr>
-
-#### {{ page.author }}
-
-#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
 
 ## Overview
 “The unscientific procedure employed during assembly of femoral head over the stem”.  This results in application of less or more force than 4.5 ± 0.5 KN. It leads to loosening of femoral head or head/stem interface damage.
@@ -80,4 +73,4 @@ We will use a helical spring in our design to achieve the impact force of 4.5 ±
 
 ### Torque output at gear shaft
 
-As shown above and in the Auto-Hammer mechanism, in order to achieve the output force of 4.5 ± 0.5 KN at the spring, we need to extend it using a rack and pinion mechanism which is driven by the motor and planetary gear system. To move the rack by 10 cm, we need to provide fixed amount of torque at the gear shaft and in turn at the pinion. Again, we will fix our design space and take the maximum distance (also the moment arm) between the rack and the pinion center as 2 cm. Thus, the toque output required at gear shaft to ensure 4.5 ± 0.5 KN of force is 9000 Nm. 
+As shown above and in the Auto-Hammer mechanism, in order to achieve the output force of 4.5 ± 0.5 KN at the spring, we need to extend it using a rack and pinion mechanism which is driven by the motor and planetary gear system. To move the rack by 10 cm, we need to provide fixed amount of torque at the gear shaft and in turn at the pinion. Again, we will fix our design space and take the maximum distance (also the moment arm) between the rack and the pinion center as 2 cm. Thus, the toque output required at gear shaft to ensure 4.5 ± 0.5 KN of force is 9000 Nm.
