@@ -11,7 +11,7 @@ horizontal: >-
 layout: post
 title: Automated Pallet Unlocking System in Tow Vehicles
 author: Vicky
-tags: Project Industry
+tags: Project Industry Automation ProcessImprovement
 subtitle: A process improvement project
 category: project
 published: true
