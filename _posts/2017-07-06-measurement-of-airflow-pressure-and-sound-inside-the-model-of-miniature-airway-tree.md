@@ -17,14 +17,6 @@ title: >-
 <!-- Start Writing Below in Markdown -->
 
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-## {{ page.title }}
-
-<hr>
-
-#### {{ page.author }}
-
-#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
-
 
 ## Overview
 Airflow inside the airway tree is an important factor in the studies of pulmonary acoustics, disease studies and particle deposition inside airways. But measurement of airflow inside airways is challenging due to accessibility at different location of the tree for its geometry. Hence the results obtained in these measurements might not be accurate. The project will discuss the experimental setup for measurements of airflow and acoustics inside the airways
