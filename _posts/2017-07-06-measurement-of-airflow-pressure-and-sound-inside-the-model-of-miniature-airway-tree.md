@@ -12,10 +12,9 @@ visualworkflow: true
 published: true
 title: >-
   Measurement of airflow, pressure, and sound inside the model of miniature
-  airway tree
-  author: Vicky
-tags: Biometric LabView Data-Acquisition Analysis 
-subtitle: Measurement and Analysis of Airflow in 3-D Airway Trees 
+  airway tree author: Vicky
+tags: Biometric LabView Data-Acquisition Analysis
+subtitle: Measurement and Analysis of Airflow in 3-D Airway Trees
 category: project
 ---
 <!-- Start Writing Below in Markdown -->
@@ -64,9 +63,9 @@ Calibration of pressure transducer using hot wire:
 
 •A Pitot tube and pressure transducer setup was used to measure velocity profile at the exit of the contraction
 
-•The velocity profile of the flow source (at the exit of small contraction) was measured by the pitot from one edge to the other edge in horizontal (figure 5 left) and vertical (Figure 5 right) directions 
+•The velocity profile of the flow source (at the exit of small contraction) was measured by the pitot from one edge to the other edge in horizontal and vertical directions 
 
-•The figure4 shows that the Vertical and horizontal velocity profiles at the entrance of the airway model is predominantly flat
+•The figure below shows that the Vertical and horizontal velocity profiles at the entrance of the airway model is predominantly flat
 
 ![Graph3.JPG]({{site.baseurl}}/img/Graph3.JPG)
 <p align="center">Velocity profile at the exit of small contraction</p>
