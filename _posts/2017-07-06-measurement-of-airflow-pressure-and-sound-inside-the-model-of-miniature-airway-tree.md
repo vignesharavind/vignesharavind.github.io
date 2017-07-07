@@ -91,7 +91,7 @@ Calibration of pressure transducer using hot wire:
 
 •Different flow rates were obtained by switching both the fans on (maximum flow rate), switching both the fans off (zero flow rate), switching off one of the fans and using one of the fans with obstruction
 
-•The figure6 shows that the pressure loss increased as the flow rate increased
+•The figure below shows that the pressure loss increases as the flow rate increased
 
 •The pressure-flow rate relation was found to be quadratic in nature
 
