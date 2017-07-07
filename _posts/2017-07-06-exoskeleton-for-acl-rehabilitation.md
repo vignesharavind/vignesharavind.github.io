@@ -16,13 +16,6 @@ title: Exoskeleton for ACL rehabilitation
 <!-- Start Writing Below in Markdown -->
 
 <section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
-## {{ page.title }}
-
-<hr>
-
-#### {{ page.author }}
-
-#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
 
 ### Overview
 Anterior Cruciate Ligament (ACL) is one of the major knee ligaments that joins the upper part of the leg and lower part of the leg together and maintains the knee stability. A significant limiting factor that prevents maximal potential recovery of patients following ACL surgery is pain. The overall objective is to propose a mechanical exoskeleton that allows restricted range of motion during post- operative rehabilitation (ensures the safety of the newly reconstructed ACL graft) and a clinical testing plan to use the proposed device with the pain reducer device to understand the overall effect of the combination on the recovery of the patient.
