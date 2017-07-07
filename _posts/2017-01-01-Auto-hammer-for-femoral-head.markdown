@@ -11,8 +11,8 @@ horizontal: >-
 layout: post
 title: Auto-Hammer for Femoral Head Assembly During Total Hip Arthroplasty
 author: Vicky
-tags: biometric mechanical design
-subtitle: Some Short Description of Post
+tags: bio-medical mechanical design
+subtitle: Automated Hammer for Efficient Assembly of Femoral Head over the Stem
 category: project
 published: true
 visualworkflow: true
