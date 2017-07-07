@@ -11,8 +11,10 @@ A passionate engineer specialized in Mechanical Systems with design, prototyping
 ## Education 
 Master of Science in Mechanical Engineering 	Apr – 2017 
 University of Central Florida. GPA 3.7/4. Mechanics of Materials, Composite Materials, Continuum Mechanics. 
+
 Bachelor of Engineering in Mechanical Engineering 	Apr – 2015 
 Anna University, Chennai, India. GPA 8.5/10. Finite Element Analysis, CAD&CAM, Manufacturing Technology 
+
 Certified ‘Yellow Belt’ in Lean Six Sigma. License ASQ@UCF/16-028.                                                                                                                                                                                                                                 
 ## SKILLS
 Design Tools: Auto-CAD (2016), Catia, Creo 3.0, Solidworks-motion study, simulation and composer (2016)
