@@ -12,7 +12,8 @@ visualworkflow: true
 published: true
 title: >-
   Measurement of airflow, pressure, and sound inside the model of miniature
-  airway tree author: Vicky
+  airway tree 
+author: Vicky
 tags: Biometric LabView Data-Acquisition Analysis
 subtitle: Measurement and Analysis of Airflow in 3-D Airway Trees
 category: project
