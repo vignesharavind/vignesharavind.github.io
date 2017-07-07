@@ -91,10 +91,10 @@ The frame is made out of rectangular square tubes which are sent out as scrap. T
 ![Frame](/img/Pallet Unlocking/Pic_7.jpg)
 <p align="center">Yoke with chain link</p>
 
-![Frame](/img/Pallet Unlocking/Pic_9.jpg)
+![Frame](/img/Pallet Unlocking/Pic_8.jpg)
 <p align="center">Motor mounting front view</p>
 
-![Frame](/img/Pallet Unlocking/Pic_8.jpg)
+![Frame](/img/Pallet Unlocking/Pic_9.jpg)
 <p align="center">Complete assembly of the setup</p>
 
 Key Deformation Analysis:
