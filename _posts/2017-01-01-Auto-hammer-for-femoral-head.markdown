@@ -11,7 +11,7 @@ horizontal: >-
 layout: post
 title: Auto-Hammer for Femoral Head Assembly During Total Hip Arthroplasty
 author: Vicky
-tags: biometric mechanical
+tags: biometric mechanical design
 subtitle: Some Short Description of Post
 category: project
 published: true
