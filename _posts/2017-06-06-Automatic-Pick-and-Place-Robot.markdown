@@ -11,8 +11,8 @@ horizontal: >-
 layout: post
 title: Automatic Pick and Place Robot for Palletizing
 author: Vicky
-tags: design Solidworks
-subtitle: Some Short Description of Post
+tags: Design Solidworks Arduino Automation
+subtitle: 3-DOF Robotic Arm
 category: project
 published: true
 visualworkflow: true
