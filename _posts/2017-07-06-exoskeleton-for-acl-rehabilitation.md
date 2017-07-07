@@ -11,6 +11,10 @@ horizontal: >-
 visualworkflow: true
 published: true
 title: Exoskeleton for ACL rehabilitation
+author: Vicky
+tags: Bio-medical Design Solidworks Proposal
+subtitle: Exoskeleton design
+category: project
 ---
 
 <!-- Start Writing Below in Markdown -->
