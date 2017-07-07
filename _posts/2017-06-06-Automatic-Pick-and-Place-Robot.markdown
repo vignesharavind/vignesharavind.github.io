@@ -41,7 +41,7 @@ The proposed prototype is controlled using AVR’s advanced ATmega328p microcont
 ![Bell crank mechanism](/img/app/bell-crank-mechanism.png)
 <p align="center">Gripper with 'bell crank mechanism'</p>
 
-![Pic_3.jpg]({{site.baseurl}}/img/Pic_3.jpg)
+![]({{site.baseurl}}/https://raw.githubusercontent.com/vignesharavind/vignesharavind.github.io/master/img/Pick-Place/Pic_3%20(1).jpg)
 <p align="center">Exploded view of robotic arm</p>
 
 
