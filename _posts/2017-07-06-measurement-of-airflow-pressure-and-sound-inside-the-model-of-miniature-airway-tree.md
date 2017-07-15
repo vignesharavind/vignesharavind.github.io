@@ -121,7 +121,7 @@ Calibration of pressure transducer using hot wire:
 
 •Results showed that at high flow, dominant frequency varied between 60 Hz to 450 Hz, while at low flow dominant frequency was as high as 2200 Hz
 
-<img src="https://vignesharavind.github.io/img/Pic_7.png" width="720" height="500" />
+<img src="/img/Pic_7.png" width="720" height="500" />
 
 <p align="center">Experimental setup for sound recorded at trachea and mid bronchus</p>
 
