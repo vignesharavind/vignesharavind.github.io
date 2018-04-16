@@ -11,7 +11,7 @@ horizontal: >-
 visualworkflow: true
 published: true
 title: Exoskeleton for ACL rehabilitation
-author: Vicky
+author: Vignesh
 tags: Bio-medical Design Solidworks Proposal
 subtitle: Exoskeleton design
 category: project
