@@ -10,7 +10,7 @@ horizontal: >-
   markdown="1">
 layout: post
 title: Automatic Pick and Place Robot for Palletizing
-author: Vicky
+author: Vignesh
 tags: Design Solidworks Arduino Automation
 subtitle: 3-DOF Robotic Arm
 category: project
