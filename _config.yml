@@ -5,7 +5,7 @@ url: "https://vignesharavind.github.io"
 
 # Secondary Parameters
 baseurl: ""
-header-img: img/logos/Slide5.JPG
+header-img: img/Max_Shear.JPG
 headercolor: "#FFFFFF"
 #headercolor: "#000000"
 #logo: /img/logos/Embryo_Cover1.jpg
@@ -33,7 +33,7 @@ defaults:
     type: "pages"
     values:
     layout: "project"
-    header-img: "img/logos/Slide5.JPG"
+    header-img: "img/Max_Shear.JPG"
 
 # Prose Settings
 prose:
