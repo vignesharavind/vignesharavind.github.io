@@ -1,16 +1,13 @@
 # Site settings
 title: Vignesh Projects
-description: "A road to well engineered world"
+description: "Research interests: Cell mechanics, biophysics, mechanical engineering and Machine Learning"
 url: "https://vignesharavind.github.io"
-
-
-
 
 # Secondary Parameters
 baseurl: ""
 #header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Slide5.JPG
+logo: /img/logos/Embryo_Cover1.tif
 
 # Tertiary Parameters
 github_username:  vignesharavind
