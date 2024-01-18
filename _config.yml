@@ -1,6 +1,6 @@
 # Site settings
 title: Vignesh Projects
-description: "Research interests: Cell mechanics, biophysics, mechanical engineering and Machine Learning"
+description: "Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning"
 url: "https://vignesharavind.github.io"
 
 # Secondary Parameters
@@ -33,7 +33,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "/img/logos/Embryo_Cover1.jpg"
+      header-img: "/img/logos/Slide5.JPG"
 
 # Prose Settings
 prose:
