@@ -33,7 +33,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "logos/Embryo_Cover1.jpg"
+      header-img: "img/logos/Embryo_Cover1.jpg"
 
 # Prose Settings
 prose:
