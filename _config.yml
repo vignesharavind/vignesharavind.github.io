@@ -1,5 +1,5 @@
 # Site settings
-title: My Projects
+title: Vignesh Projects
 description: "A road to well engineered world"
 url: "https://vignesharavind.github.io"
 
@@ -8,9 +8,9 @@ url: "https://vignesharavind.github.io"
 
 # Secondary Parameters
 baseurl: ""
-header-img: img/home-bg.jpg
+#header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/Slide5.jpg
 
 # Tertiary Parameters
 github_username:  vignesharavind
