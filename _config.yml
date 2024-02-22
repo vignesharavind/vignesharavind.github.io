@@ -2,12 +2,13 @@
 title: Vignesh Projects
 description: "Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning"
 url: "https://vignesharavind.github.io"
+color: "#FFFFFF"
 
 # Secondary Parameters
 baseurl: ""
 header-img: img/Avg_Normal.JPG
-#headercolor: "#FFFFFF"
-headercolor: "#000000"
+headercolor: "#FFFFFF"
+#headercolor: "#000000"
 #logo: /img/logos/Embryo_Cover1.jpg
 
 # Tertiary Parameters
