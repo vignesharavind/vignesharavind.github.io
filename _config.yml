@@ -1,6 +1,6 @@
 # Site settings
-title: '[Vignesh Projects] {style="color:black;"}'
-description: '[Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning] {style="color:white;"}'
+title: "Vignesh Projects" {style="color:black;"}
+description: "Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning" {style="color:white;"}
 url: "https://vignesharavind.github.io"
 
 
