@@ -1,8 +1,8 @@
 # Site settings
-title: Vignesh Projects
-description: "Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning"
+title: '[Vignesh Projects] {style="color:black;"}'
+description: '[Research interests: Cell Mechanics, Biophysics, Mechanical Engineering and Machine Learning] {style="color:white;"}'
 url: "https://vignesharavind.github.io"
-color: "#FFFFFF"
+
 
 # Secondary Parameters
 baseurl: ""
