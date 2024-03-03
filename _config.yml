@@ -7,8 +7,8 @@ url: "https://vignesharavind.github.io"
 # Secondary Parameters
 baseurl: ""
 header-img: img/Inferno_Magenta.jpg
-#headercolor: "#FFFFFF"
-headercolor: "#000000"
+headercolor: "#FFFFFF"
+#headercolor: "#000000"
 #logo: /img/logos/Embryo_Cover1.jpg
 
 # Tertiary Parameters
