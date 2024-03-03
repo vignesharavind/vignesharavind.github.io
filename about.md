@@ -2,7 +2,7 @@
 layout: page
 title: My Profile
 description: MSME
-header-img: img/home-bg.jpg
+header-img: img/Inferno_Magenta.jpg
 published: true
 ---
 ## OBJECTIVE
