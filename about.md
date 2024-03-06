@@ -5,7 +5,7 @@ description: Ph.D., Mechanical Engineering
 header-img: img/Inferno_Magenta.jpg
 published: true
 ---
-## OBJECTIVE
+## ABOUT ME
 I am a postdoctoral researcher with a PhD in mechanical engineering. My research specialization is in the field of cell mechanics which encompasses interdisciplinary expertise in soft physics, Particle Image Velocimetry (PIV), computer vision, machine learning, fluorescence and confocal microscopy, cell and molecular biology. I have experience working with both in-vitro (Human Umbilical Vein Endothelial Cells, HUVECs) and in-vivo (Xenopus tropicalis) model systems. 
 
 ## EDUCATION
