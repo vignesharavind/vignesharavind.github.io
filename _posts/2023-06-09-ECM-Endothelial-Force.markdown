@@ -50,5 +50,5 @@ Publication Link: https://doi.org/10.1152/ajpcell.00106.2023
 ![Frame](/img/ECM_Paper/Avg_Normal.jpg)
 <p align="center">. Average normal stress (within 651 * 651 lm2 cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E), and average normal stress (Pa) for different Col-I and FN coating concentrations based on averages from five samples for each ratio</p>
 
-![Frame](/img/ ECM_Paper/Max_Shear.jpg)
+![Frame](/img/ECM_Paper/Max_Shear.jpg)
 <p align="center">Maximum shear stress (within 651 * 651 lm2 cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E), and average maximum shear stress (Pa) for different Col-I and FN coating concentrations based on averages from five samples for each ratio</p>
