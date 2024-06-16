@@ -45,10 +45,16 @@ Publication Link: https://doi.org/10.1152/ajpcell.00106.2023
 <p align="center">Cropped HUVEC monolayer phase-contrast images (within 651 * 651 Sq. microns) for different Col-I and FN coating concentration ratios: Col-I 100% (A), ColI 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E). Col-I, collagen I; FN, fibronectin; HUVEC, human umbilical vein endothelial cell</p>
 
 ![Frame](/img/ECM_Paper/RMS_Traction.jpg)
-<p align="center">RMS traction (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E), and average RMS tractions (Pa) for different Col-I and FN coating concentrations based on averages from five samples for each ratio</p>
+<p align="center">RMS traction (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E)</p>
 
 ![Frame](/img/ECM_Paper/Avg_Normal.JPG)
-<p align="center">Average normal stress (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E), and average normal stress (Pa) for different Col-I and FN coating concentrations based on averages from five samples for each ratio</p>
+<p align="center">Average normal stress (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E)</p>
 
 ![Frame](/img/ECM_Paper/Max_Shear.JPG)
-<p align="center">Maximum shear stress (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E), and average maximum shear stress (Pa) for different Col-I and FN coating concentrations based on averages from five samples for each ratio</p>
+<p align="center">Maximum shear stress (within 651 * 651 Sq. microns cropped section) distributions (Pa) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E)</p>
+
+![Frame](/img/ECM_Paper/RMS_Velocity.jpg)
+<p align="center">RMS velocity (within 651 * 651 Sq. microns cropped section) distributions (lm/min) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E)</p>
+
+![Frame](/img/ECM_Paper/Cell_Area.jpg)
+<p align="center">HUVEC area (Sq. microns) (within 651 * 651 Sq. microns cropped section) for different Col-I and FN coating concentration ratios: Col-I 100% (A), Col-I 75% FN 25% (B), Col-I 50% FN 50% (C), Col-I 25% FN 75% (D), FN 100% (E)</p>
