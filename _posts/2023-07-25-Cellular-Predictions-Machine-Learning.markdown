@@ -38,7 +38,7 @@ Publication Link: https://doi.org/10.1016/j.bpj.2023.07.016
 <p align="center">Figure showing implementation of machine learning approach to predict intercellular stress and tractions. The QSVM and SLR machine learning models were used along with two predictor sets: 1) monolayer boundary set and 2) discretized window set</p>
   
 ![Frame](/img/ML_Paper/Fig2.jpg)
-<p align="center"> Discretized Window Predictor vs. Monolayer Boundary Predictor</p> 
+<p align="center">Discretized Window Predictor vs. Monolayer Boundary Predictor</p> 
 
 ![Frame](/img/ML_Paper/Fig3.jpg)
 <p align="center">Predicted tractions using monolayer boundary and discretized window predictors. Experimental-, MBS-QSVM-, and DWS-SLR-predicted RMS traction distributions for 0.2 mg/mL chalcone concentration (a–c) and 2 mg/mL chalcone concentration (d–f) and the corresponding averages from three samples for each condition with standard errors shown in the bar plot (g)</p>
