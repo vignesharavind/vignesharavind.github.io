@@ -9,6 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 layout: post
+header-img: "img/ML_Paper/Fig1.jpg"
 title: Machine learning prediction of cellular Stresses in response to chemical perturbation
 author: Vignesh
 tags: MachineLearning TractionForce IntercellularStresses CellularForces SupportVectorMachine ComputerVision
