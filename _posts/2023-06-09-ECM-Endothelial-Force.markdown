@@ -11,7 +11,7 @@ horizontal: >-
 layout: post
 title: Extracellular matrix composition alters endothelial force transmission
 author: Vignesh
-tags: Extracellular Matrix Endothelial Cells Intercellular Stresses Traction Force Microscopy
+tags: ExtracellularMatrix EndothelialCells IntercellularStresses TractionForceMicroscopy
 subtitle: Endothelium force maps
 category: project
 published: true
