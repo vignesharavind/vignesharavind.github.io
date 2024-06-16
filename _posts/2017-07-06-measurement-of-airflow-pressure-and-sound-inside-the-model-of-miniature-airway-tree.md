@@ -10,7 +10,6 @@ horizontal: >-
   markdown="1">
 visualworkflow: true
 published: true
-header-img: "img/Science_Background6.jpg"
 title: >-
   Measurement of airflow, pressure, and sound inside the model of miniature
   airway tree 
