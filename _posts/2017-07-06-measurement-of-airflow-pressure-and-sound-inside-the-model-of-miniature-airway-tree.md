@@ -11,6 +11,7 @@ horizontal: >-
 visualworkflow: true
 published: true
 header-img: "img/home-bg.jpg"
+headercolor: "#000000"
 title: >-
   Measurement of airflow, pressure, and sound inside the model of miniature
   airway tree 
