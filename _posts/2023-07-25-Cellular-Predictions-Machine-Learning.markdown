@@ -38,10 +38,14 @@ Publication Link: https://doi.org/10.1016/j.bpj.2023.07.016
 <p align="center">Figure showing implementation of machine learning approach to predict intercellular stress and tractions. The QSVM and SLR machine learning models were used along with two predictor sets: 1) monolayer boundary set and 2) discretized window set</p>
   
 ![Frame](/img/ML_Paper/Fig2.jpg)
-<p align="center">Discretized Window Predictor vs. Monolayer Boundary Predictor</p> 
+<p align="center"> Monolayer Boundary Predictor Vs. Discretized Window Predictor</p> 
 
 ![Frame](/img/ML_Paper/Fig3.jpg)
 <p align="center">Predicted tractions using monolayer boundary and discretized window predictors. Experimental-, MBS-QSVM-, and DWS-SLR-predicted RMS traction distributions for 0.2 mg/mL chalcone concentration (a–c) and 2 mg/mL chalcone concentration (d–f) and the corresponding averages from three samples for each condition with standard errors shown in the bar plot (g)</p>
 
 ![Frame](/img/ML_Paper/Fig4.jpg)
 <p align="center">Predicted intercellular stresses using monolayer boundary and discretized window predictors. Experimental-, MBS-SLR-, and DWS-QSVM predicted average normal stress distributions for 0.2 mg/mL chalcone concentration (a–c) and 2 mg/mL chalcone concentration (g–i). Experimental-, MBSSLR-, and DWS-QSVM-predicted maximum shear stress distributions for 0.2 mg/mL chalcone concentration (d–f) and 2 mg/mL chalcone concentration (j–l). Corresponding averages of the distributions from three monolayers for each condition with standard errors are shown in (m and n) for average normal and maximum shear stresses, respectively</p>
+
+![Frame](/img/ML_Paper/Fig6.jpg)
+<p align="center">R-Squared accuracy and root-mean square error (RMSE) plots for monolayer boundary and discretized window predictors’ overall R-Squared accuracy (a) and RMSE in Pa (b) for RMS traction, average
+normal stress, and maximum shear stress predictions using the monolayer boundary set (MBS) and the discretized window set (DWS). MBS utilizes QSVM for traction predictions and the SLR model for intercellular stresses predictions while DWS utilizes SLR for traction and QSVM for intercellular stresses predictions</p> 
