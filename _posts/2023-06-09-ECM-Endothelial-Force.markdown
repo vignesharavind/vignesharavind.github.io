@@ -9,7 +9,6 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 header-img: "img/Science_Background9.jpg"
-layout: post3
 title: Extracellular matrix composition alters endothelial force transmission
 header-color: black
 author: Vignesh
