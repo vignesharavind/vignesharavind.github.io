@@ -9,10 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 header-img: "img/Science_Background9.jpg"
-.intro-header .site-heading,
-.intro-header .post-heading {
-  color: #000000;
-}
+text_color: black;
 title: Extracellular matrix composition alters endothelial force transmission
 author: Vignesh
 tags: ExtracellularMatrix EndothelialCells IntercellularStresses TractionForce Fibronectin Collagen-1
