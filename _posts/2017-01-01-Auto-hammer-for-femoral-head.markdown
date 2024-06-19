@@ -9,6 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 layout: post
+header-img: "img/Plain_Black_Spade.jpg"
 title: Auto-Hammer for Femoral Head Assembly During Total Hip Arthroplasty
 author: Vignesh
 tags: bio-medical mechanical design
