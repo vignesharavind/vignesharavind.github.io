@@ -10,6 +10,7 @@ horizontal: >-
   markdown="1">
 visualworkflow: true
 published: true
+header-img: "img/Wall_Black2.jpg"
 title: Exoskeleton for ACL rehabilitation
 author: Vignesh
 tags: Bio-medical Design Solidworks Proposal
