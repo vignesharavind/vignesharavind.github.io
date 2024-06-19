@@ -9,6 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 layout: post
+header-img: "img/Plain_Black_Cross.jpg"
 title: Automated Pallet Unlocking System in Tow Vehicles
 author: Vignesh
 tags: Project Industry Automation ProcessImprovement Design
