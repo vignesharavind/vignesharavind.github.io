@@ -9,6 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 layout: post
+header-img: "img/Wall_Black.jpg"
 title: Automatic Pick and Place Robot for Palletizing
 author: Vignesh
 tags: Design Solidworks Arduino Automation
