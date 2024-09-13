@@ -29,7 +29,7 @@ Mechanical stresses generated at the cell-cell level and cell-substrate level ha
 
 The ML framework we present here can be used to predict the mechanical response of any cell type capable of adherence to a flexible substrate as a function of chemical perturbation. The proposed ML can directly predict the intercellular stresses or tractions as a function of drug dosage and/or monolayer/cell coverage area which could potentially reduce the experimental time on studying the mechanics of cells to external chemicals or mechanical constraints. We believe our findings could be helpful in accelerating drug discovery and increase our understanding in the role of cellular stresses during disease progression.
  
-Publication Link: https://doi.org/10.1016/j.bpj.2023.07.016
+<a href="https://doi.org/10.1016/j.bpj.2023.07.016">Publication Link</a>: 
  
 ## Prediction of Traction and Intercellular Stress Maps
 ![Frame](/img/ML_Paper/Fig5.jpg)
