@@ -36,7 +36,7 @@ Extracellular matrix (ECM) composition is important in a host of pathophysiologi
 
 The endothelium constitutes the innermost layer of all blood vessels and plays an important role in vascular physiology and pathology. During certain vascular diseases, the extracellular matrix has been suggested to transition from a collagen-rich matrix to a fibronectin-rich matrix. In this study, we demonstrate the impact various collagen and fibronectin ratios have on endothelial biomechanical and morphological response.
  
-<a href="https://doi.org/10.1152/ajpcell.00106.2023">Publication Link: Extracellular matrix composition alters endothelial force transmission</a>:
+<a href="https://doi.org/10.1152/ajpcell.00106.2023">Publication Link: ECM composition alters endothelial force transmission</a>:
  
 ## Traction and intercellular stress maps
 
