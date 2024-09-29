@@ -10,7 +10,7 @@ horizontal: >-
   markdown="1">
 layout: post
 header-img: "img/Science_Background10.jpg"
-title: Useful Image Analysis Macros Fiji
+title: Useful Image Analysis Macros In Fiji
 author: Vignesh
 tags: ImagePreparation ImageJ2 Fiji 
 subtitle: Image Processing
