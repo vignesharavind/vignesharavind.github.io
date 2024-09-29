@@ -10,7 +10,7 @@ horizontal: >-
   markdown="1">
 layout: post
 header-img: "img/Science_Background5.jpg"
-title: Useful Image Analysis Tools
+title: Useful Image Analysis Macros Fiji
 author: Vignesh
 tags: ImagePreparation ImageJ2 Fiji 
 subtitle: Image Processing
@@ -59,7 +59,7 @@ If the file is in ‘.lif’ format a slightly different version (which requires
 <p align="center">Saved Z-projections of two channels for the first image in the series are shown</p> 
 
 ## Applying scale bars in batch
-Applying scale bars to images often require multiple steps: 1)Setting the scale 2)Setting the properties of the scale bar 3)’Flattening’	the image (skipping the step does not burn the scale bar onto the image). If scale bars are to be added to multiple images additional steps of converting images into the stack, applying scale bars to all the images in the stacks, and then saving the stack to image sequences. These steps can be tedious and time consuming especially when dealing with lots of images. Running the custom written <a href=" https://github.com/vignesharavind/Fiji_Macros/blob/main/Z_Project_Images_LIF_File.ijm"> scale bar macro </a> applies the scale bar with specified properties to all the images in the folder in a single click. This hack will be very useful especially when scale bars are to be added to large number of images. The scale bar macro can be run in Fiji by clicking the first image in the folder. 
+Applying scale bars to images often require multiple steps: 1)Setting the scale 2)Setting the properties of the scale bar 3)’Flattening’	the image (skipping the step does not burn the scale bar onto the image). If scale bars are to be added to multiple images additional steps of converting images into the stack, applying scale bars to all the images in the stacks, and then saving the stack to image sequences. These steps can be tedious and time consuming especially when dealing with lots of images. Running the custom written <a href=" https://github.com/vignesharavind/Fiji_Macros/blob/main/Scale_Bar_Batch.ijm"> scale bar macro </a> applies the scale bar with specified properties to all the images in the folder in a single click. This hack will be very useful especially when scale bars are to be added to large number of images. The scale bar macro can be run in Fiji by clicking the first image in the folder. 
 
 ![Frame](/img/Fiji/Figa.jpg)
 <p align="center">Three example images to which the scale bars needed to be applied are shown</p>
