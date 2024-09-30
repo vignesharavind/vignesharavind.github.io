@@ -23,7 +23,7 @@ visualworkflow: true
 ## {{ page.title }}
 <hr>
 #### {{ page.author }}
-#### {{ page.date | date: "%I %M %p ,%a, %b %d %Y"}}
+
 ## Introduction
 Fiji (Fiji Is Just ImageJ) is an Image J software specifically with plugins for scientific image analysis initially developed by Wayne Rasband while other additional developers also made significant contributions to the accessorial plugins that complement the main software. 
 
@@ -69,3 +69,6 @@ Applying scale bars to images often require multiple steps: 1)Setting the scale 
 
 ![Frame](/img/Fiji/Figc.jpg)
 <p align="center">After the macro has run successfully the new images with scale bars are saved within the same folder in the order of the original images</p> 
+
+![Frame](/img/Fiji/Figd.jpg)
+<p align="center">An example image showing before (left) and after (right) buring the scale bar</p> 
