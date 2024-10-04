@@ -41,7 +41,7 @@ White noise or speckles in the background can be removed using wiener or median 
 
 
 ## Cell Segmentation Using MATLAB
-Image processing toolbox in MATLAB can be used for segmenting cells manually using an ROI (region of interest) tool or using in-built functions such as watershed or edge detection functions such as canny, sobel, etc. The custom written <a href=" https://github.com/vignesharavind/Cell-Segmentation/blob/main/Auto%20Cell%20Segmentation/Sobel_All_Cells_TWO.m">MATLAB script</a> can be used to automatically identify and create masks or skeleton of the cells. The quality of the image and the threshold chosen for watershed in the script might affect the accuracy the traced cells. Segmentation of cells specifically near the edges might be erroneous.   
+Image processing toolbox in MATLAB can be used for segmenting cells manually using an ROI (region of interest) tool or using in-built functions such as watershed or edge detection functions such as canny, sobel, etc. The custom written <a href=" https://github.com/vignesharavind/Cell-Segmentation/blob/main/Auto%20Cell%20Segmentation/Sobel_All_Cells_TWO.m">MATLAB script</a> can be used to automatically identify and create masks or skeleton of the cells. The quality of the image and the threshold chosen for watershed in the script might affect the accuracy of the traced cells. Segmentation of cells specifically near the edges might be erroneous.   
 
 ![Frame](/img/Cell Segmentation/Slide1.jpg)
 <p align="center">Automated cell segmentation using MATLAB</p>
