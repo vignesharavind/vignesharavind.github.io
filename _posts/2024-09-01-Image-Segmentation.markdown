@@ -9,7 +9,7 @@ horizontal: >-
   data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section
   markdown="1">
 layout: post
-header-img: "img/Science_Background11_3.jpg"
+header-img: "img/Science_Background10.jpg"
 title: Image Segmentation Using MATLAB
 author: Vignesh
 tags: ImagePreparation ComputerVision Segmentation cilia Pattern
@@ -36,12 +36,12 @@ Background noise in the image can be subtracted by selecting a rectangular regio
 
 White noise or speckles in the background can be removed using wiener or median filters in MATLAB among other functions which are also available in the image processing toolbox. An example code can be found <a href=" https://github.com/vignesharavind/Cell-Segmentation/blob/main/Image%20Preparation/Despeckle_Filters.m">here</a>.  
 
-![Frame](/img/Cell Segmentation/Subtracted.jpg)
+![Frame](/img/Cell Segmentation/Despeckle.jpg)
 <p align="center">An example de-speckling of a noisy image using MATLAB filters is shown above </p>
 
 
 ## Cell Segmentation Using MATLAB
 Image processing toolbox in MATLAB can be used for segmenting cells manually using an ROI (region of interest) tool or using in-built functions such as watershed or edge detection functions such as canny, sobel, etc. The custom written <a href=" https://github.com/vignesharavind/Cell-Segmentation/blob/main/Auto%20Cell%20Segmentation/Sobel_All_Cells_TWO.m">MATLAB script</a> can be used to automatically identify and create masks or skeleton of the cells. The quality of the image and the threshold chosen for watershed in the script might affect the accuracy the traced cells. Segmentation of cells specifically near the edges might be erroneous.   
 
-![Frame](/img/Cell Segmentation/Slide1.TIF)
+![Frame](/img/Cell Segmentation/Slide1.jpg)
 <p align="center">Automated cell segmentation using MATLAB</p>
