@@ -13,7 +13,7 @@ header-img: "img/Science_Background10.jpg"
 title: Image Segmentation Using MATLAB
 author: Vignesh
 tags: ImagePreparation ComputerVision Segmentation cilia Pattern
-subtitle: Endothelium force maps
+subtitle: Cell Segmentation
 category: project
 published: true
 visualworkflow: true
